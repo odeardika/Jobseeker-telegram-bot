@@ -1,6 +1,7 @@
 {
   "name": "Jobseeker-telegram-bot",
   "version": "1.0.0",
+  "type": "module",
   "main": "index.js",
   "author": "Ode Ardika <104220059+odeardika@users.noreply.github.com>",
   "license": "MIT",
